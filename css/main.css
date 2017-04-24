@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	
+	margin:0;
+	
+}
+
+.if {
+	
+	float:left;
+	height: 400px;
+	width: 200px;
+	background-color: #000000;
+	
+}
+
+.text {
+	
+	float:left;
+	height: 400px;
+	width:200px;
+	background-color: #000000;
+	content-color: #ffffff;
+}
